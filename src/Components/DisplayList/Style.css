@@ -1,0 +1,18 @@
+.next-button
+{
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    color:rgb(22, 22, 212);
+    height: 2rem;
+    width: 4rem;
+}
+.displayPageNumber
+{
+    position: absolute;
+    right: 20%;
+    bottom: 0%;
+    color:rgb(22, 22, 212);
+    height: 2rem;
+    width: 4rem;
+}
